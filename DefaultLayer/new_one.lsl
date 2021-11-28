@@ -140,7 +140,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>P +/-</Name>
-            <Type>Delta</Type>
+            <Type>SegmentDelta</Type>
             <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
