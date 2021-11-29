@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1316</X>
-  <Y>74</Y>
+  <X>1055</X>
+  <Y>100</Y>
   <VerticalWidth>417</VerticalWidth>
-  <VerticalHeight>630</VerticalHeight>
+  <VerticalHeight>604</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -134,21 +134,14 @@
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>True</ShowColumnLabels>
+        <ShowColumnLabels>False</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
             <Version>1.5</Version>
             <Name>P +/-</Name>
-            <Type>SegmentDelta</Type>
+            <Type>Delta</Type>
             <Comparison>Personal Best</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
-          </Settings>
-          <Settings>
-            <Version>1.5</Version>
-            <Name>W +/-</Name>
-            <Type>SegmentDelta</Type>
-            <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
