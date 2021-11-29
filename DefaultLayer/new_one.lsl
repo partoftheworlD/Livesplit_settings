@@ -4,7 +4,7 @@
   <X>1055</X>
   <Y>100</Y>
   <VerticalWidth>417</VerticalWidth>
-  <VerticalHeight>581</VerticalHeight>
+  <VerticalHeight>582</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -129,7 +129,7 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Hundredths</DeltasAccuracy>
+        <DeltasAccuracy>Tenths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
