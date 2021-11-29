@@ -4,7 +4,7 @@
   <X>1055</X>
   <Y>100</Y>
   <VerticalWidth>417</VerticalWidth>
-  <VerticalHeight>604</VerticalHeight>
+  <VerticalHeight>581</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -158,21 +158,6 @@
       <Path>
       </Path>
       <Settings />
-    </Component>
-    <Component>
-      <Path>LiveSplit.Delta.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <Accuracy>Hundredths</Accuracy>
-        <BackgroundColor>FF000000</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
-        <Display2Rows>False</Display2Rows>
-        <DropDecimals>True</DropDecimals>
-      </Settings>
     </Component>
     <Component>
       <Path>LiveSplit.PreviousSegment.dll</Path>
