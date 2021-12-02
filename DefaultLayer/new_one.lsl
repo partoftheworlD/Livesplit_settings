@@ -4,7 +4,7 @@
   <X>1055</X>
   <Y>100</Y>
   <VerticalWidth>417</VerticalWidth>
-  <VerticalHeight>582</VerticalHeight>
+  <VerticalHeight>610</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -134,12 +134,27 @@
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>False</ShowColumnLabels>
+        <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
             <Version>1.5</Version>
             <Name>P +/-</Name>
+            <Type>SegmentDelta</Type>
+            <Comparison>Personal Best</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>B +/-</Name>
+            <Type>SegmentDelta</Type>
+            <Comparison>Best Segments</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>
+            </Name>
             <Type>Delta</Type>
             <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
@@ -148,7 +163,7 @@
             <Version>1.5</Version>
             <Name>Time</Name>
             <Type>SegmentTime</Type>
-            <Comparison>Current Comparison</Comparison>
+            <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
