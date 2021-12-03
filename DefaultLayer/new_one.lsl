@@ -4,7 +4,7 @@
   <X>1316</X>
   <Y>74</Y>
   <VerticalWidth>417</VerticalWidth>
-  <VerticalHeight>630</VerticalHeight>
+  <VerticalHeight>631</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -140,7 +140,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>P +/-</Name>
-            <Type>Delta</Type>
+            <Type>SegmentDelta</Type>
             <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
