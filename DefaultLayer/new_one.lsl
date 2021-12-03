@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1055</X>
-  <Y>100</Y>
+  <X>1316</X>
+  <Y>74</Y>
   <VerticalWidth>417</VerticalWidth>
-  <VerticalHeight>583</VerticalHeight>
+  <VerticalHeight>630</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -129,27 +129,33 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DeltasAccuracy>Hundredths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>False</ShowColumnLabels>
+        <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
             <Version>1.5</Version>
-            <Name>
-            </Name>
+            <Name>P +/-</Name>
             <Type>Delta</Type>
-            <Comparison>Current Comparison</Comparison>
+            <Comparison>Personal Best</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>W +/-</Name>
+            <Type>SegmentDelta</Type>
+            <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
             <Name>Time</Name>
             <Type>SegmentTime</Type>
-            <Comparison>Personal Best</Comparison>
+            <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
@@ -159,6 +165,21 @@
       <Path>
       </Path>
       <Settings />
+    </Component>
+    <Component>
+      <Path>LiveSplit.Delta.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <Accuracy>Hundredths</Accuracy>
+        <BackgroundColor>FF000000</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Current Comparison</Comparison>
+        <Display2Rows>False</Display2Rows>
+        <DropDecimals>True</DropDecimals>
+      </Settings>
     </Component>
     <Component>
       <Path>LiveSplit.PreviousSegment.dll</Path>
