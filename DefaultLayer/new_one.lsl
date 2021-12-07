@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1316</X>
-  <Y>74</Y>
+  <X>100</X>
+  <Y>100</Y>
   <VerticalWidth>417</VerticalWidth>
-  <VerticalHeight>631</VerticalHeight>
+  <VerticalHeight>606</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -107,7 +107,7 @@
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
-        <AlwaysShowLastSplit>False</AlwaysShowLastSplit>
+        <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
         <SplitTimesAccuracy>Hundredths</SplitTimesAccuracy>
         <AutomaticAbbreviations>False</AutomaticAbbreviations>
@@ -134,7 +134,7 @@
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>True</ShowColumnLabels>
+        <ShowColumnLabels>False</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
@@ -146,15 +146,8 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>W +/-</Name>
-            <Type>SegmentDelta</Type>
-            <Comparison>Best Segments</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
-          </Settings>
-          <Settings>
-            <Version>1.5</Version>
             <Name>Time</Name>
-            <Type>SegmentTime</Type>
+            <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
