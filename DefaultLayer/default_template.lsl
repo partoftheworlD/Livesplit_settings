@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>102</X>
-  <Y>158</Y>
+  <X>1346</X>
+  <Y>64</Y>
   <VerticalWidth>400</VerticalWidth>
   <VerticalHeight>350</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -106,7 +106,7 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>IGT +/- </Name>
+            <Name>IGT +/-</Name>
             <Type>SegmentDelta</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Game Time</TimingMethod>
@@ -163,7 +163,7 @@
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
-        <ShowTotalHours>False</ShowTotalHours>
+        <ShowTotalHours>True</ShowTotalHours>
       </Settings>
     </Component>
   </Components>
