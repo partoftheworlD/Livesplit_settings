@@ -4,7 +4,7 @@
   <X>1346</X>
   <Y>64</Y>
   <VerticalWidth>400</VerticalWidth>
-  <VerticalHeight>350</VerticalHeight>
+  <VerticalHeight>416</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -53,7 +53,25 @@
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <CenterTimer>False</CenterTimer>
-        <TimingMethod>Current Timing Method</TimingMethod>
+        <TimingMethod>Real Time</TimingMethod>
+        <DecimalsSize>35</DecimalsSize>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.Timer.dll</Path>
+      <Settings>
+        <Version>1.5</Version>
+        <TimerHeight>75</TimerHeight>
+        <TimerWidth>225</TimerWidth>
+        <TimerFormat>1.23</TimerFormat>
+        <OverrideSplitColors>False</OverrideSplitColors>
+        <ShowGradient>True</ShowGradient>
+        <TimerColor>FFAAAAAA</TimerColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <CenterTimer>False</CenterTimer>
+        <TimingMethod>Game Time</TimingMethod>
         <DecimalsSize>35</DecimalsSize>
       </Settings>
     </Component>
