@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>1346</X>
   <Y>64</Y>
-  <VerticalWidth>350</VerticalWidth>
-  <VerticalHeight>349</VerticalHeight>
+  <VerticalWidth>265</VerticalWidth>
+  <VerticalHeight>350</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -56,8 +56,8 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>5</VisualSplitCount>
-        <SplitPreviewCount>1</SplitPreviewCount>
+        <VisualSplitCount>8</VisualSplitCount>
+        <SplitPreviewCount>2</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>False</AlwaysShowLastSplit>
