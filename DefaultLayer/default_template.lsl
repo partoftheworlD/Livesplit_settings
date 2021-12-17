@@ -58,7 +58,7 @@
         <DisplayGameIcon>True</DisplayGameIcon>
         <ShowRegion>False</ShowRegion>
         <ShowPlatform>False</ShowPlatform>
-        <ShowVariables>True</ShowVariables>
+        <ShowVariables>False</ShowVariables>
         <TextAlignment>0</TextAlignment>
       </Settings>
     </Component>
