@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1506</X>
-  <Y>272</Y>
+  <X>1184</X>
+  <Y>87</Y>
   <VerticalWidth>286</VerticalWidth>
-  <VerticalHeight>614</VerticalHeight>
+  <VerticalHeight>613</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -189,7 +189,7 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Path>LiveSplit.SumOfBest.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
@@ -200,7 +200,6 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
