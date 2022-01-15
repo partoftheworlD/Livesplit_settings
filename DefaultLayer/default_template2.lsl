@@ -45,7 +45,7 @@
         <Version>1.7.3</Version>
         <ShowGameName>True</ShowGameName>
         <ShowCategoryName>True</ShowCategoryName>
-        <ShowAttemptCount>True</ShowAttemptCount>
+        <ShowAttemptCount>False</ShowAttemptCount>
         <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
         <OverrideTitleFont>False</OverrideTitleFont>
         <OverrideTitleColor>False</OverrideTitleColor>
