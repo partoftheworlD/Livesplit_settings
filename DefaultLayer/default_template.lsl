@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1228</X>
-  <Y>88</Y>
-  <VerticalWidth>235</VerticalWidth>
-  <VerticalHeight>335</VerticalHeight>
+  <X>1473</X>
+  <Y>196</Y>
+  <VerticalWidth>274</VerticalWidth>
+  <VerticalHeight>321</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -66,13 +66,13 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
+        <CurrentSplitTopColor>00FFFFFF</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>8</VisualSplitCount>
-        <SplitPreviewCount>2</SplitPreviewCount>
+        <VisualSplitCount>6</VisualSplitCount>
+        <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
-        <AlwaysShowLastSplit>False</AlwaysShowLastSplit>
+        <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
         <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
         <AutomaticAbbreviations>False</AutomaticAbbreviations>
@@ -85,15 +85,15 @@
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
         <ShowBlankSplits>True</ShowBlankSplits>
-        <LockLastSplit>True</LockLastSplit>
+        <LockLastSplit>False</LockLastSplit>
         <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>3.6</SplitHeight>
-        <CurrentSplitGradient>Vertical</CurrentSplitGradient>
+        <SplitHeight>0</SplitHeight>
+        <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>00000000</BackgroundColor>
         <BackgroundColor2>00000000</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
-        <SeparatorLastSplit>True</SeparatorLastSplit>
+        <SeparatorLastSplit>False</SeparatorLastSplit>
         <DeltasAccuracy>Tenths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
@@ -169,6 +169,22 @@
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
         <TotalTimeSave>False</TotalTimeSave>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
+        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
     <Component>
