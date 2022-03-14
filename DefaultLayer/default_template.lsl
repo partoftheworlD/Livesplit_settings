@@ -201,7 +201,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
