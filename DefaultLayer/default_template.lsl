@@ -4,7 +4,7 @@
   <X>1350</X>
   <Y>343</Y>
   <VerticalWidth>427</VerticalWidth>
-  <VerticalHeight>415</VerticalHeight>
+  <VerticalHeight>412</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -166,11 +166,6 @@
         <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
       </Settings>
-    </Component>
-    <Component>
-      <Path>
-      </Path>
-      <Settings />
     </Component>
     <Component>
       <Path>LiveSplit.DetailedTimer.dll</Path>
