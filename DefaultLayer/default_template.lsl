@@ -4,7 +4,7 @@
   <X>1403</X>
   <Y>343</Y>
   <VerticalWidth>374</VerticalWidth>
-  <VerticalHeight>470</VerticalHeight>
+  <VerticalHeight>418</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -39,29 +39,6 @@
     <MousePassThroughWhileRunning>False</MousePassThroughWhileRunning>
   </Settings>
   <Components>
-    <Component>
-      <Path>LiveSplit.Title.dll</Path>
-      <Settings>
-        <Version>1.7.3</Version>
-        <ShowGameName>True</ShowGameName>
-        <ShowCategoryName>True</ShowCategoryName>
-        <ShowAttemptCount>True</ShowAttemptCount>
-        <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
-        <OverrideTitleFont>False</OverrideTitleFont>
-        <OverrideTitleColor>False</OverrideTitleColor>
-        <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TitleFont>
-        <SingleLine>False</SingleLine>
-        <TitleColor>FFFFFFFF</TitleColor>
-        <BackgroundColor>00000000</BackgroundColor>
-        <BackgroundColor2>FF131313</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <DisplayGameIcon>True</DisplayGameIcon>
-        <ShowRegion>False</ShowRegion>
-        <ShowPlatform>False</ShowPlatform>
-        <ShowVariables>False</ShowVariables>
-        <TextAlignment>0</TextAlignment>
-      </Settings>
-    </Component>
     <Component>
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
@@ -120,39 +97,9 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.DetailedTimer.dll</Path>
-      <Settings>
-        <Version>1.5</Version>
-        <Height>99</Height>
-        <Width>200</Width>
-        <SegmentTimerSizeRatio>40</SegmentTimerSizeRatio>
-        <TimerShowGradient>True</TimerShowGradient>
-        <OverrideTimerColors>False</OverrideTimerColors>
-        <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
-        <TimerFormat>1.23</TimerFormat>
-        <SegmentTimerFormat>1.23</SegmentTimerFormat>
-        <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
-        <TimerColor>FFAAAAAA</TimerColor>
-        <SegmentTimerColor>FFAAAAAA</SegmentTimerColor>
-        <SegmentLabelsColor>FFFFFFFF</SegmentLabelsColor>
-        <SegmentTimesColor>FFFFFFFF</SegmentTimesColor>
-        <SegmentLabelsFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentLabelsFont>
-        <SegmentTimesFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAABAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentTimesFont>
-        <SplitNameFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAMEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SplitNameFont>
-        <DisplayIcon>False</DisplayIcon>
-        <IconSize>40</IconSize>
-        <ShowSplitName>False</ShowSplitName>
-        <SplitNameColor>FFFFFFFF</SplitNameColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
-        <Comparison2>Best Segments</Comparison2>
-        <HideComparison>False</HideComparison>
-        <TimingMethod>Current Timing Method</TimingMethod>
-        <DecimalsSize>35</DecimalsSize>
-        <SegmentTimerDecimalsSize>35</SegmentTimerDecimalsSize>
-      </Settings>
+      <Path>
+      </Path>
+      <Settings />
     </Component>
     <Component>
       <Path>LiveSplit.PreviousSegment.dll</Path>
@@ -218,6 +165,46 @@
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>
+      </Path>
+      <Settings />
+    </Component>
+    <Component>
+      <Path>LiveSplit.DetailedTimer.dll</Path>
+      <Settings>
+        <Version>1.5</Version>
+        <Height>99</Height>
+        <Width>200</Width>
+        <SegmentTimerSizeRatio>40</SegmentTimerSizeRatio>
+        <TimerShowGradient>True</TimerShowGradient>
+        <OverrideTimerColors>False</OverrideTimerColors>
+        <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
+        <TimerFormat>1.23</TimerFormat>
+        <SegmentTimerFormat>1.23</SegmentTimerFormat>
+        <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
+        <TimerColor>FFAAAAAA</TimerColor>
+        <SegmentTimerColor>FFAAAAAA</SegmentTimerColor>
+        <SegmentLabelsColor>FFFFFFFF</SegmentLabelsColor>
+        <SegmentTimesColor>FFFFFFFF</SegmentTimesColor>
+        <SegmentLabelsFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentLabelsFont>
+        <SegmentTimesFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAABAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentTimesFont>
+        <SplitNameFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAMEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SplitNameFont>
+        <DisplayIcon>False</DisplayIcon>
+        <IconSize>40</IconSize>
+        <ShowSplitName>False</ShowSplitName>
+        <SplitNameColor>FFFFFFFF</SplitNameColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Current Comparison</Comparison>
+        <Comparison2>Best Segments</Comparison2>
+        <HideComparison>False</HideComparison>
+        <TimingMethod>Current Timing Method</TimingMethod>
+        <DecimalsSize>35</DecimalsSize>
+        <SegmentTimerDecimalsSize>35</SegmentTimerDecimalsSize>
       </Settings>
     </Component>
   </Components>
