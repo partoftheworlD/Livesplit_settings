@@ -44,7 +44,7 @@
       <Settings>
         <Version>1.7.3</Version>
         <ShowGameName>False</ShowGameName>
-        <ShowCategoryName>False</ShowCategoryName>
+        <ShowCategoryName>True</ShowCategoryName>
         <ShowAttemptCount>True</ShowAttemptCount>
         <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
         <OverrideTitleFont>False</OverrideTitleFont>
