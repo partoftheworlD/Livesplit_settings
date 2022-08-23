@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1542</X>
-  <Y>378</Y>
+  <X>1604</X>
+  <Y>341</Y>
   <VerticalWidth>285</VerticalWidth>
   <VerticalHeight>297</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -71,7 +71,7 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>False</SeparatorLastSplit>
-        <DeltasAccuracy>Seconds</DeltasAccuracy>
+        <DeltasAccuracy>Tenths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
