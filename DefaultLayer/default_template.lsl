@@ -5,8 +5,8 @@
   <Y>341</Y>
   <VerticalWidth>285</VerticalWidth>
   <VerticalHeight>298</VerticalHeight>
-  <HorizontalWidth>-1</HorizontalWidth>
-  <HorizontalHeight>-1</HorizontalHeight>
+  <HorizontalWidth>1162</HorizontalWidth>
+  <HorizontalHeight>45</HorizontalHeight>
   <Settings>
     <TextColor>FFFFFFFF</TextColor>
     <BackgroundColor>FF463F3F</BackgroundColor>
@@ -71,7 +71,7 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>False</SeparatorLastSplit>
-        <DeltasAccuracy>Seconds</DeltasAccuracy>
+        <DeltasAccuracy>Tenths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
@@ -82,7 +82,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>+/-</Name>
-            <Type>Delta</Type>
+            <Type>SegmentDelta</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
