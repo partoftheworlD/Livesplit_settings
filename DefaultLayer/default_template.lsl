@@ -4,9 +4,9 @@
   <X>1604</X>
   <Y>341</Y>
   <VerticalWidth>285</VerticalWidth>
-  <VerticalHeight>298</VerticalHeight>
-  <HorizontalWidth>1162</HorizontalWidth>
-  <HorizontalHeight>45</HorizontalHeight>
+  <VerticalHeight>361</VerticalHeight>
+  <HorizontalWidth>-1</HorizontalWidth>
+  <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
     <TextColor>FFFFFFFF</TextColor>
     <BackgroundColor>FF463F3F</BackgroundColor>
@@ -40,6 +40,29 @@
   </Settings>
   <Components>
     <Component>
+      <Path>LiveSplit.Title.dll</Path>
+      <Settings>
+        <Version>1.7.3</Version>
+        <ShowGameName>True</ShowGameName>
+        <ShowCategoryName>True</ShowCategoryName>
+        <ShowAttemptCount>True</ShowAttemptCount>
+        <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
+        <OverrideTitleFont>False</OverrideTitleFont>
+        <OverrideTitleColor>False</OverrideTitleColor>
+        <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TitleFont>
+        <SingleLine>False</SingleLine>
+        <TitleColor>FFFFFFFF</TitleColor>
+        <BackgroundColor>002A2A2A</BackgroundColor>
+        <BackgroundColor2>FF131313</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <DisplayGameIcon>False</DisplayGameIcon>
+        <ShowRegion>False</ShowRegion>
+        <ShowPlatform>False</ShowPlatform>
+        <ShowVariables>True</ShowVariables>
+        <TextAlignment>0</TextAlignment>
+      </Settings>
+    </Component>
+    <Component>
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
@@ -51,7 +74,7 @@
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
+        <SplitTimesAccuracy>Hundredths</SplitTimesAccuracy>
         <AutomaticAbbreviations>False</AutomaticAbbreviations>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
@@ -71,7 +94,7 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>False</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DeltasAccuracy>Hundredths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
@@ -142,9 +165,9 @@
         <BackgroundGradient>Plain</BackgroundGradient>
         <DeltaAccuracy>Tenths</DeltaAccuracy>
         <DropDecimals>True</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
-        <ShowPossibleTimeSave>True</ShowPossibleTimeSave>
+        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
         <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
       </Settings>
     </Component>
@@ -156,10 +179,26 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
+        <Accuracy>Hundredths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Hundredths</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
