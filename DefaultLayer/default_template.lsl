@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1531</X>
-  <Y>37</Y>
-  <VerticalWidth>285</VerticalWidth>
-  <VerticalHeight>275</VerticalHeight>
+  <X>1314</X>
+  <Y>107</Y>
+  <VerticalWidth>340</VerticalWidth>
+  <VerticalHeight>213</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -51,7 +51,7 @@
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Hundredths</SplitTimesAccuracy>
+        <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
         <AutomaticAbbreviations>False</AutomaticAbbreviations>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
@@ -76,21 +76,35 @@
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>False</ShowColumnLabels>
+        <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
             <Version>1.5</Version>
             <Name>+/-</Name>
-            <Type>SegmentDelta</Type>
-            <Comparison>Current Comparison</Comparison>
+            <Type>Delta</Type>
+            <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>Time</Name>
+            <Name>PB</Name>
             <Type>SplitTime</Type>
-            <Comparison>Current Comparison</Comparison>
+            <Comparison>Personal Best</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>+/-</Name>
+            <Type>SegmentDelta</Type>
+            <Comparison>Best Segments</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>SoB</Name>
+            <Type>SplitTime</Type>
+            <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
@@ -112,38 +126,6 @@
         <CenterTimer>False</CenterTimer>
         <TimingMethod>Current Timing Method</TimingMethod>
         <DecimalsSize>35</DecimalsSize>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.PreviousSegment.dll</Path>
-      <Settings>
-        <Version>1.6</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
-        <DropDecimals>True</DropDecimals>
-        <Comparison>Best Segments</Comparison>
-        <Display2Rows>False</Display2Rows>
-        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
-        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.SumOfBest.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Hundredths</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
     <Component>
