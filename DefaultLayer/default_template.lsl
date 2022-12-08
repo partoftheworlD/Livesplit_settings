@@ -4,7 +4,7 @@
   <X>1314</X>
   <Y>107</Y>
   <VerticalWidth>340</VerticalWidth>
-  <VerticalHeight>150</VerticalHeight>
+  <VerticalHeight>151</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -51,7 +51,7 @@
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
+        <SplitTimesAccuracy>Hundredths</SplitTimesAccuracy>
         <AutomaticAbbreviations>False</AutomaticAbbreviations>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
