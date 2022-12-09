@@ -102,7 +102,7 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>SoB</Name>
+            <Name>BS</Name>
             <Type>SplitTime</Type>
             <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
