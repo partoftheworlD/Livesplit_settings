@@ -4,7 +4,7 @@
   <X>1389</X>
   <Y>192</Y>
   <VerticalWidth>286</VerticalWidth>
-  <VerticalHeight>312</VerticalHeight>
+  <VerticalHeight>318</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -123,7 +123,7 @@
       <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <TimerHeight>68</TimerHeight>
+        <TimerHeight>74</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>1.23</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
