@@ -2,7 +2,7 @@
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
   <X>1389</X>
-  <Y>192</Y>
+  <Y>191</Y>
   <VerticalWidth>286</VerticalWidth>
   <VerticalHeight>318</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -180,7 +180,7 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
+        <Accuracy>Hundredths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
