@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1524</X>
-  <Y>226</Y>
+  <X>586</X>
+  <Y>241</Y>
   <VerticalWidth>286</VerticalWidth>
   <VerticalHeight>140</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -43,10 +43,10 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>003373F4</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>3</VisualSplitCount>
-        <SplitPreviewCount>1</SplitPreviewCount>
+        <SplitPreviewCount>0</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
@@ -68,8 +68,8 @@
         <SplitHeight>3.6</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Alternating</BackgroundGradient>
+        <BackgroundColor2>FFFF0000</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>False</SeparatorLastSplit>
         <DeltasAccuracy>Hundredths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>

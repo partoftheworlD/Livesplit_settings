@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1157</X>
-  <Y>137</Y>
+  <X>723</X>
+  <Y>151</Y>
   <VerticalWidth>286</VerticalWidth>
   <VerticalHeight>140</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -46,7 +46,7 @@
         <CurrentSplitTopColor>003373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>3</VisualSplitCount>
-        <SplitPreviewCount>1</SplitPreviewCount>
+        <SplitPreviewCount>0</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
