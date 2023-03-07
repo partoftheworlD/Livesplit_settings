@@ -11,5 +11,3 @@ isLoading {
 
 	return !current.inGame;
 }
-
-// 31
