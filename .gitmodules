@@ -1,3 +1,8 @@
 [submodule "Splits"]
 	path = Splits
 	url = https://github.com/partoftheworlD/Splits
+
+
+[submodule "Modd"]
+	path = Mods
+	url = git@github.com:partoftheworlD/SpeedrunPractice.git
