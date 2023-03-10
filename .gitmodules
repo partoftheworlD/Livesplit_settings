@@ -1,6 +1,6 @@
 [submodule "Splits"]
 	path = Splits
 	url = https://github.com/partoftheworlD/Splits
-[submodule "Mods"]
-	path = Mods
+[submodule "Practice"]
+	path = Practice
 	url = https://github.com/partoftheworlD/SpeedrunPractice
