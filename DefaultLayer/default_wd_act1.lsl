@@ -4,7 +4,7 @@
   <X>1045</X>
   <Y>255</Y>
   <VerticalWidth>286</VerticalWidth>
-  <VerticalHeight>519</VerticalHeight>
+  <VerticalHeight>370</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -84,7 +84,7 @@
         <CurrentTimesColor>FFFFFFFF</CurrentTimesColor>
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
-        <ShowBlankSplits>True</ShowBlankSplits>
+        <ShowBlankSplits>False</ShowBlankSplits>
         <LockLastSplit>True</LockLastSplit>
         <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
