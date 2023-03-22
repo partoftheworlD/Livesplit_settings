@@ -122,15 +122,8 @@
         <Columns>
           <Settings>
             <Version>1.5</Version>
-            <Name>+/-</Name>
-            <Type>Delta</Type>
-            <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
-          </Settings>
-          <Settings>
-            <Version>1.5</Version>
             <Name>Time</Name>
-            <Type>SplitTime</Type>
+            <Type>DeltaorSplitTime</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
