@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1143</X>
-  <Y>107</Y>
+  <X>1142</X>
+  <Y>108</Y>
   <VerticalWidth>286</VerticalWidth>
   <VerticalHeight>519</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -63,24 +63,6 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.Timer.dll</Path>
-      <Settings>
-        <Version>1.5</Version>
-        <TimerHeight>69</TimerHeight>
-        <TimerWidth>225</TimerWidth>
-        <TimerFormat>1.23</TimerFormat>
-        <OverrideSplitColors>False</OverrideSplitColors>
-        <ShowGradient>True</ShowGradient>
-        <TimerColor>FFAAAAAA</TimerColor>
-        <BackgroundColor>00000000</BackgroundColor>
-        <BackgroundColor2>FF222222</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <CenterTimer>False</CenterTimer>
-        <TimingMethod>Current Timing Method</TimingMethod>
-        <DecimalsSize>35</DecimalsSize>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
@@ -128,6 +110,24 @@
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.Timer.dll</Path>
+      <Settings>
+        <Version>1.5</Version>
+        <TimerHeight>69</TimerHeight>
+        <TimerWidth>225</TimerWidth>
+        <TimerFormat>1.23</TimerFormat>
+        <OverrideSplitColors>False</OverrideSplitColors>
+        <ShowGradient>True</ShowGradient>
+        <TimerColor>FFAAAAAA</TimerColor>
+        <BackgroundColor>00000000</BackgroundColor>
+        <BackgroundColor2>FF222222</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <CenterTimer>False</CenterTimer>
+        <TimingMethod>Current Timing Method</TimingMethod>
+        <DecimalsSize>35</DecimalsSize>
       </Settings>
     </Component>
     <Component>
