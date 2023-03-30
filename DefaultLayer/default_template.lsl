@@ -94,7 +94,7 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>False</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DeltasAccuracy>Hundredths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
@@ -104,8 +104,16 @@
         <Columns>
           <Settings>
             <Version>1.5</Version>
+            <Name>
+            </Name>
+            <Type>Delta</Type>
+            <Comparison>Current Comparison</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
             <Name>Time</Name>
-            <Type>DeltaorSplitTime</Type>
+            <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
