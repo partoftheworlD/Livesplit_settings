@@ -7,6 +7,10 @@ init {
 	vars.StartTime = 0;
 }
 
+start {
+	vars.StartTime = 0;
+}
+
 update {
 	if (vars.StartTime == 0) {
 		vars.StartTime = current.game_time;
