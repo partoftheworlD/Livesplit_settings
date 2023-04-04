@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1087</X>
-  <Y>202</Y>
+  <X>1229</X>
+  <Y>187</Y>
   <VerticalWidth>232</VerticalWidth>
   <VerticalHeight>237</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -143,6 +143,7 @@
       <Settings>
         <Version>1.5</Version>
         <ScriptPath>D:\Speedruns\Autosplitters\wd_igt.asl</ScriptPath>
+        <Start>True</Start>
         <CustomSettings />
       </Settings>
     </Component>
