@@ -8,7 +8,6 @@ init {
 
 update {
 	if (vars.StartTime == 0) {
-		vars.StartTime = 0;
 		vars.StartTime = current.game_time;
 		return true;
 	}
