@@ -14,7 +14,7 @@ start {
 }
 
 update {
-	if ((old.game_time - current.game_time) > 1) {
+	if ((old.game_time - current.game_time) > 0) {
 		vars.Delta += (old.game_time - current.game_time);
 	}
 }
