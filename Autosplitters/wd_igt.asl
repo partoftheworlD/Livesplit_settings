@@ -5,16 +5,17 @@ state("watch_dogs") {
 
 init {
 	vars.StartTime = 0;
+	vars.Delta = 0;
 }
 
 start {
-	vars.StartTime = 0;
+	vars.StartTime = current.game_time;
+	vars.Delta = 0;
 }
 
 update {
-	if (vars.StartTime == 0) {
-		vars.StartTime = current.game_time;
-		return true;
+	if ((old.game_time - current.game_time) > 1) {
+		vars.Delta += (old.game_time - current.game_time);
 	}
 }
 
@@ -23,7 +24,7 @@ exit {
 }
 
 gameTime {
-	return TimeSpan.FromSeconds(current.game_time - vars.StartTime);
+	return TimeSpan.FromSeconds(current.game_time - vars.StartTime + vars.Delta);
 }
 
 isLoading {
