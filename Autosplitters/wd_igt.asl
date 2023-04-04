@@ -2,6 +2,7 @@
 state("watch_dogs") {
 	float game_time: "Disrupt_b64.dll", 0x3A9F940, 0x318;
 }
+
 init {
 	vars.StartTime = 0;
 }
