@@ -8,6 +8,5 @@ state("SniperGhostWarrior2") {
 }
 
 isLoading {
-
 	return !current.inGame;
 }
