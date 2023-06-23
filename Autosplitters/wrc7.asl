@@ -8,6 +8,10 @@ init {
 	vars.Total = 0;
 }
 
+start {
+	vars.Total = 0;
+}
+
 update {
 	if (current.game_time != 0) {
 		vars.Total += (current.game_time - old.game_time);
@@ -15,7 +19,7 @@ update {
 }
 
 split {
-	return current.end_race != old.end_race && current.end_race == 0;
+	return current.end_race != old.end_race && current.end_race == 0 && old.game_time > 0;
 }
 
 exit {
