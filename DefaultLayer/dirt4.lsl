@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>124</X>
-  <Y>173</Y>
+  <X>1374</X>
+  <Y>274</Y>
   <VerticalWidth>232</VerticalWidth>
-  <VerticalHeight>237</VerticalHeight>
+  <VerticalHeight>291</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -134,7 +134,25 @@
         <BackgroundColor2>FF222222</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <CenterTimer>False</CenterTimer>
-        <TimingMethod>Current Timing Method</TimingMethod>
+        <TimingMethod>Game Time</TimingMethod>
+        <DecimalsSize>35</DecimalsSize>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.Timer.dll</Path>
+      <Settings>
+        <Version>1.5</Version>
+        <TimerHeight>62</TimerHeight>
+        <TimerWidth>225</TimerWidth>
+        <TimerFormat>1.23</TimerFormat>
+        <OverrideSplitColors>False</OverrideSplitColors>
+        <ShowGradient>True</ShowGradient>
+        <TimerColor>FFAAAAAA</TimerColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <CenterTimer>False</CenterTimer>
+        <TimingMethod>Real Time</TimingMethod>
         <DecimalsSize>35</DecimalsSize>
       </Settings>
     </Component>
@@ -142,9 +160,8 @@
       <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <ScriptPath>D:\Speedruns\Autosplitters\wrc7.asl</ScriptPath>
-        <Start>True</Start>
-        <Split>True</Split>
+        <ScriptPath>
+        </ScriptPath>
         <CustomSettings />
       </Settings>
     </Component>
