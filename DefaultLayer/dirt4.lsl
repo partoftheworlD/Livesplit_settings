@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1374</X>
-  <Y>274</Y>
+  <X>1185</X>
+  <Y>156</Y>
   <VerticalWidth>232</VerticalWidth>
   <VerticalHeight>291</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -160,8 +160,8 @@
       <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <ScriptPath>
-        </ScriptPath>
+        <ScriptPath>D:\Speedruns\Autosplitters\dirt4.asl</ScriptPath>
+        <Start>True</Start>
         <CustomSettings />
       </Settings>
     </Component>
