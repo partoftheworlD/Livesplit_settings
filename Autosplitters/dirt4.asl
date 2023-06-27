@@ -1,9 +1,14 @@
 
 // 
 state("dirt4") {
-	bool loading: "dirt4.exe", 0x149C7A0, 0x790;
+	float game_time: "dirt4.exe", 0x1D18864;
 }
 
+gameTime {
+	return TimeSpan.FromSeconds(current.game_time);
+}
+
+
 isLoading {
-	return current.loading;
+	return true;
 }
