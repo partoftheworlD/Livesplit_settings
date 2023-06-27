@@ -8,7 +8,10 @@ gameTime {
 	return TimeSpan.FromSeconds(current.game_time);
 }
 
-
 isLoading {
 	return true;
+}
+
+exit {
+	timer.IsGameTimePaused = true;
 }
