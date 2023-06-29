@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1185</X>
-  <Y>156</Y>
+  <X>1469</X>
+  <Y>67</Y>
   <VerticalWidth>232</VerticalWidth>
-  <VerticalHeight>291</VerticalHeight>
+  <VerticalHeight>317</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -163,6 +163,21 @@
         <ScriptPath>D:\Speedruns\Autosplitters\dirt4.asl</ScriptPath>
         <Start>True</Start>
         <CustomSettings />
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.SumOfBest.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
   </Components>
