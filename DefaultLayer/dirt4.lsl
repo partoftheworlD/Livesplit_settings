@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1469</X>
-  <Y>67</Y>
+  <X>1569</X>
+  <Y>442</Y>
   <VerticalWidth>232</VerticalWidth>
-  <VerticalHeight>317</VerticalHeight>
+  <VerticalHeight>337</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -58,7 +58,7 @@
         <DisplayGameIcon>False</DisplayGameIcon>
         <ShowRegion>False</ShowRegion>
         <ShowPlatform>False</ShowPlatform>
-        <ShowVariables>True</ShowVariables>
+        <ShowVariables>False</ShowVariables>
         <TextAlignment>0</TextAlignment>
       </Settings>
     </Component>
@@ -163,6 +163,23 @@
         <ScriptPath>D:\Speedruns\Autosplitters\dirt4.asl</ScriptPath>
         <Start>True</Start>
         <CustomSettings />
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.PreviousSegment.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <DeltaAccuracy>Tenths</DeltaAccuracy>
+        <DropDecimals>True</DropDecimals>
+        <Comparison>Current Comparison</Comparison>
+        <Display2Rows>False</Display2Rows>
+        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
+        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
       </Settings>
     </Component>
     <Component>
