@@ -94,7 +94,7 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
         <SeparatorLastSplit>False</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DeltasAccuracy>Hundredths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
@@ -146,8 +146,8 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
-        <DropDecimals>True</DropDecimals>
+        <DeltaAccuracy>Hundredths</DeltaAccuracy>
+        <DropDecimals>False</DropDecimals>
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
         <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
