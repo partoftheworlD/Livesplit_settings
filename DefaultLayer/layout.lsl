@@ -113,7 +113,7 @@
             <Version>1.5</Version>
             <Name>Time</Name>
             <Type>DeltaorSplitTime</Type>
-            <Comparison>Balanced PB</Comparison>
+            <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
