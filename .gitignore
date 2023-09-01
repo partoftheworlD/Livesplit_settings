@@ -2,6 +2,7 @@
 /Stream/
 /Game stuff/
 /Gamethings/
-/Livesplit/
+/Livesplit/**/*
+!Livesplit/settings.cfg
 *.ini
 *.xlsx
