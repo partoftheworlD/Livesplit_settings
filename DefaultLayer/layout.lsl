@@ -106,7 +106,7 @@
             <Version>1.5</Version>
             <Name>Segment</Name>
             <Type>SegmentDeltaorSegmentTime</Type>
-            <Comparison>Balanced PB</Comparison>
+            <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
