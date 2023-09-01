@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>758</X>
-  <Y>221</Y>
+  <X>647</X>
+  <Y>226</Y>
   <VerticalWidth>232</VerticalWidth>
   <VerticalHeight>176</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -106,14 +106,14 @@
             <Version>1.5</Version>
             <Name>Segment</Name>
             <Type>SegmentDeltaorSegmentTime</Type>
-            <Comparison>Current Comparison</Comparison>
+            <Comparison>Balanced PB</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
             <Name>Time</Name>
             <Type>DeltaorSplitTime</Type>
-            <Comparison>Current Comparison</Comparison>
+            <Comparison>Balanced PB</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
@@ -148,7 +148,7 @@
         <BackgroundGradient>Plain</BackgroundGradient>
         <DeltaAccuracy>Hundredths</DeltaAccuracy>
         <DropDecimals>False</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
         <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
         <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
