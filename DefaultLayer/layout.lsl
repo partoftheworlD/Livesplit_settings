@@ -105,14 +105,14 @@
           <Settings>
             <Version>1.5</Version>
             <Name>Segment</Name>
-            <Type>SegmentDeltaorSegmentTime</Type>
+            <Type>Delta</Type>
             <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
             <Name>Time</Name>
-            <Type>DeltaorSplitTime</Type>
+            <Type>SplitTime</Type>
             <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
