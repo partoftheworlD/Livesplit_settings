@@ -4,7 +4,7 @@
   <X>908</X>
   <Y>136</Y>
   <VerticalWidth>337</VerticalWidth>
-  <VerticalHeight>271</VerticalHeight>
+  <VerticalHeight>270</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
