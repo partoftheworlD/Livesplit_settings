@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>642</X>
-  <Y>194</Y>
+  <X>1039</X>
+  <Y>127</Y>
   <VerticalWidth>345</VerticalWidth>
-  <VerticalHeight>416</VerticalHeight>
+  <VerticalHeight>428</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -123,9 +123,9 @@
       <Path>LiveSplit.DetailedTimer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <Height>75</Height>
+        <Height>81</Height>
         <Width>200</Width>
-        <SegmentTimerSizeRatio>40</SegmentTimerSizeRatio>
+        <SegmentTimerSizeRatio>43</SegmentTimerSizeRatio>
         <TimerShowGradient>True</TimerShowGradient>
         <OverrideTimerColors>False</OverrideTimerColors>
         <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
