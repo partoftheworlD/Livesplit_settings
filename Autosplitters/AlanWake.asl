@@ -4,5 +4,5 @@ state("AlanWake")
 }
 
 split {
-	if (old.video > current.video && current.video != 0) { return true; } 
+	if (old.video < current.video && current.video != 0 && current.video != 9200) { return true; } 
 }
