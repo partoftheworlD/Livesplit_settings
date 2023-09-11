@@ -8,5 +8,5 @@ start {
 }
 
 split {
-	return (old.video < current.video && current.video != 0 && current.video % 1000); 
+	return (old.video < current.video && current.video != 0 && current.video != 9200 && current.video != 9700); 
 }
