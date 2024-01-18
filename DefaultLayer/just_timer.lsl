@@ -47,7 +47,7 @@
         <TimerWidth>225</TimerWidth>
         <TimerFormat>00:01</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
-        <ShowGradient>False</ShowGradient>
+        <ShowGradient>True</ShowGradient>
         <TimerColor>FFAAAAAA</TimerColor>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
