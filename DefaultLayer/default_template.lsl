@@ -130,8 +130,8 @@
         <TimerShowGradient>True</TimerShowGradient>
         <OverrideTimerColors>False</OverrideTimerColors>
         <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
-        <TimerFormat>00:01</TimerFormat>
-        <SegmentTimerFormat>00:01.23</SegmentTimerFormat>
+        <TimerFormat>1.23</TimerFormat>
+        <SegmentTimerFormat>1.23</SegmentTimerFormat>
         <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
         <TimerColor>FFAAAAAA</TimerColor>
         <SegmentTimerColor>FFAAAAAA</SegmentTimerColor>
