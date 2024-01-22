@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1433</X>
-  <Y>236</Y>
+  <X>1106</X>
+  <Y>195</Y>
   <VerticalWidth>395</VerticalWidth>
-  <VerticalHeight>477</VerticalHeight>
+  <VerticalHeight>621</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -66,12 +66,12 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>003373F4</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>5</VisualSplitCount>
+        <VisualSplitCount>8</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
-        <ShowThinSeparators>False</ShowThinSeparators>
+        <ShowThinSeparators>True</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
         <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
@@ -88,12 +88,12 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>0</SplitHeight>
-        <CurrentSplitGradient>Plain</CurrentSplitGradient>
+        <SplitHeight>3.6</SplitHeight>
+        <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <SeparatorLastSplit>False</SeparatorLastSplit>
+        <BackgroundGradient>Alternating</BackgroundGradient>
+        <SeparatorLastSplit>True</SeparatorLastSplit>
         <DeltasAccuracy>Tenths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
@@ -104,10 +104,9 @@
         <Columns>
           <Settings>
             <Version>1.5</Version>
-            <Name>
-            </Name>
+            <Name>+/-</Name>
             <Type>Delta</Type>
-            <Comparison>Personal Best</Comparison>
+            <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
