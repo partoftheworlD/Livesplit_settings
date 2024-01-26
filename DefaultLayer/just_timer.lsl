@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1265</X>
-  <Y>295</Y>
+  <X>1416</X>
+  <Y>526</Y>
   <VerticalWidth>286</VerticalWidth>
   <VerticalHeight>59</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -20,7 +20,7 @@
     <BehindLosingTimeColor>FFCC1200</BehindLosingTimeColor>
     <BestSegmentColor>FFD8AF1F</BestSegmentColor>
     <UseRainbowColor>False</UseRainbowColor>
-    <NotRunningColor>FFACACAC</NotRunningColor>
+    <NotRunningColor>FF00CC36</NotRunningColor>
     <PausedColor>FF7A7A7A</PausedColor>
     <TextOutlineColor>FF000000</TextOutlineColor>
     <ShadowsColor>80000000</ShadowsColor>
