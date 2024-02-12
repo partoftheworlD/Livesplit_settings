@@ -125,7 +125,7 @@
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <Accuracy>Tenths</Accuracy>
+        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
