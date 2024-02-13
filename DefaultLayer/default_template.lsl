@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1302</X>
-  <Y>312</Y>
+  <X>1425</X>
+  <Y>291</Y>
   <VerticalWidth>286</VerticalWidth>
   <VerticalHeight>250</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -129,7 +129,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>vs WR</Comparison>
+        <Comparison>vs Goal</Comparison>
         <Display2Rows>False</Display2Rows>
         <DropDecimals>True</DropDecimals>
       </Settings>
