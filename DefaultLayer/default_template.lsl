@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1473</X>
-  <Y>190</Y>
+  <X>1394</X>
+  <Y>341</Y>
   <VerticalWidth>286</VerticalWidth>
   <VerticalHeight>206</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
     <TextColor>FFFFFFFF</TextColor>
-    <BackgroundColor>FF463F3F</BackgroundColor>
+    <BackgroundColor>FF000000</BackgroundColor>
     <BackgroundColor2>00000000</BackgroundColor2>
     <ThinSeparatorsColor>03FFFFFF</ThinSeparatorsColor>
     <SeparatorsColor>24FFFFFF</SeparatorsColor>
