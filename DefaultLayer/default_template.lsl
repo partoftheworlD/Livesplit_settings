@@ -82,14 +82,14 @@
         <IndentSubsplits>True</IndentSubsplits>
         <HideSubsplits>False</HideSubsplits>
         <ShowSubsplits>False</ShowSubsplits>
-        <CurrentSectionOnly>True</CurrentSectionOnly>
+        <CurrentSectionOnly>False</CurrentSectionOnly>
         <OverrideSubsplitColor>False</OverrideSubsplitColor>
         <SubsplitGradient>Plain</SubsplitGradient>
         <ShowHeader>True</ShowHeader>
         <IndentSectionSplit>True</IndentSectionSplit>
         <ShowIconSectionSplit>True</ShowIconSectionSplit>
         <ShowSectionIcon>True</ShowSectionIcon>
-        <HeaderGradient>Vertical</HeaderGradient>
+        <HeaderGradient>Plain</HeaderGradient>
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
         <HeaderTimes>True</HeaderTimes>
@@ -99,7 +99,7 @@
         <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
         <SubsplitTopColor>8D000000</SubsplitTopColor>
         <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
-        <HeaderTopColor>2BFFFFFF</HeaderTopColor>
+        <HeaderTopColor>00FFFFFF</HeaderTopColor>
         <HeaderBottomColor>D8000000</HeaderBottomColor>
         <HeaderTextColor>FFFFFFFF</HeaderTextColor>
         <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
