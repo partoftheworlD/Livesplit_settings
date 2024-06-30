@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1516</X>
-  <Y>416</Y>
-  <VerticalWidth>303</VerticalWidth>
-  <VerticalHeight>329</VerticalHeight>
+  <X>1551</X>
+  <Y>436</Y>
+  <VerticalWidth>249</VerticalWidth>
+  <VerticalHeight>295</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -98,7 +98,7 @@
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
-        <HeaderComparison>Current Comparison</HeaderComparison>
+        <HeaderComparison>Best Segments</HeaderComparison>
         <HeaderTimingMethod>Current Timing Method</HeaderTimingMethod>
         <Display2Rows>False</Display2Rows>
         <IndentBlankIcons>True</IndentBlankIcons>
@@ -148,38 +148,21 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.DetailedTimer.dll</Path>
+      <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <Height>80</Height>
-        <Width>200</Width>
-        <SegmentTimerSizeRatio>40</SegmentTimerSizeRatio>
-        <TimerShowGradient>True</TimerShowGradient>
-        <OverrideTimerColors>False</OverrideTimerColors>
-        <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
+        <TimerHeight>50</TimerHeight>
+        <TimerWidth>225</TimerWidth>
         <TimerFormat>1.23</TimerFormat>
-        <SegmentTimerFormat>1.23</SegmentTimerFormat>
-        <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
+        <OverrideSplitColors>False</OverrideSplitColors>
+        <ShowGradient>True</ShowGradient>
         <TimerColor>FFAAAAAA</TimerColor>
-        <SegmentTimerColor>FFAAAAAA</SegmentTimerColor>
-        <SegmentLabelsColor>FFFFFFFF</SegmentLabelsColor>
-        <SegmentTimesColor>FFFFFFFF</SegmentTimesColor>
-        <SegmentLabelsFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></SegmentLabelsFont>
-        <SegmentTimesFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAABAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></SegmentTimesFont>
-        <SplitNameFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAcEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></SplitNameFont>
-        <DisplayIcon>False</DisplayIcon>
-        <IconSize>40</IconSize>
-        <ShowSplitName>False</ShowSplitName>
-        <SplitNameColor>FFFFFFFF</SplitNameColor>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
-        <Comparison2>Best Segments</Comparison2>
-        <HideComparison>False</HideComparison>
+        <CenterTimer>False</CenterTimer>
         <TimingMethod>Current Timing Method</TimingMethod>
         <DecimalsSize>35</DecimalsSize>
-        <SegmentTimerDecimalsSize>35</SegmentTimerDecimalsSize>
       </Settings>
     </Component>
     <Component>
