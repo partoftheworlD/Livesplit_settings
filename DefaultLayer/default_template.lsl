@@ -98,7 +98,7 @@
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
-        <HeaderComparison>Best Segments</HeaderComparison>
+        <HeaderComparison>Current Comparison</HeaderComparison>
         <HeaderTimingMethod>Current Timing Method</HeaderTimingMethod>
         <Display2Rows>False</Display2Rows>
         <IndentBlankIcons>True</IndentBlankIcons>
