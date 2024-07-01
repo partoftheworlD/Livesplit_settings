@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>908</X>
-  <Y>190</Y>
+  <X>1264</X>
+  <Y>129</Y>
   <VerticalWidth>355</VerticalWidth>
-  <VerticalHeight>500</VerticalHeight>
+  <VerticalHeight>462</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -63,20 +63,19 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.Subsplits.dll</Path>
+      <Path>LiveSplit.Splits.dll</Path>
       <Settings>
-        <Version>1.7</Version>
-        <AutomaticAbbreviation>False</AutomaticAbbreviation>
+        <Version>1.6</Version>
         <CurrentSplitTopColor>00000000</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>8</VisualSplitCount>
+        <VisualSplitCount>7</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
-        <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
-        <AlwaysShowLastSplit>False</AlwaysShowLastSplit>
+        <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
         <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
+        <AutomaticAbbreviations>False</AutomaticAbbreviations>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
@@ -85,12 +84,13 @@
         <CurrentTimesColor>FFFFFFFF</CurrentTimesColor>
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
+        <ShowBlankSplits>True</ShowBlankSplits>
         <LockLastSplit>False</LockLastSplit>
-        <IconSize>24</IconSize>
+        <IconSize>21</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>0</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
-        <BackgroundColor>00000000</BackgroundColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>False</SeparatorLastSplit>
@@ -98,35 +98,7 @@
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
-        <HeaderComparison>Current Comparison</HeaderComparison>
-        <HeaderTimingMethod>Current Timing Method</HeaderTimingMethod>
         <Display2Rows>False</Display2Rows>
-        <IndentBlankIcons>True</IndentBlankIcons>
-        <IndentSubsplits>True</IndentSubsplits>
-        <HideSubsplits>False</HideSubsplits>
-        <ShowSubsplits>False</ShowSubsplits>
-        <CurrentSectionOnly>False</CurrentSectionOnly>
-        <OverrideSubsplitColor>False</OverrideSubsplitColor>
-        <SubsplitGradient>Plain</SubsplitGradient>
-        <ShowHeader>True</ShowHeader>
-        <IndentSectionSplit>True</IndentSectionSplit>
-        <ShowIconSectionSplit>True</ShowIconSectionSplit>
-        <ShowSectionIcon>True</ShowSectionIcon>
-        <HeaderGradient>Plain</HeaderGradient>
-        <OverrideHeaderColor>False</OverrideHeaderColor>
-        <HeaderText>True</HeaderText>
-        <HeaderTimes>True</HeaderTimes>
-        <HeaderAccuracy>Seconds</HeaderAccuracy>
-        <SectionTimer>True</SectionTimer>
-        <SectionTimerGradient>True</SectionTimerGradient>
-        <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
-        <SubsplitTopColor>8D000000</SubsplitTopColor>
-        <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
-        <HeaderTopColor>00FFFFFF</HeaderTopColor>
-        <HeaderBottomColor>D8000000</HeaderBottomColor>
-        <HeaderTextColor>FFFFFFFF</HeaderTextColor>
-        <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
-        <SectionTimerColor>FF777777</SectionTimerColor>
         <ShowColumnLabels>False</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
@@ -134,7 +106,7 @@
             <Version>1.5</Version>
             <Name>+/-</Name>
             <Type>Delta</Type>
-            <Comparison>Current Comparison</Comparison>
+            <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
