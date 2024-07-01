@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1264</X>
-  <Y>129</Y>
+  <X>1178</X>
+  <Y>161</Y>
   <VerticalWidth>355</VerticalWidth>
-  <VerticalHeight>462</VerticalHeight>
+  <VerticalHeight>384</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -68,7 +68,7 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>00000000</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>7</VisualSplitCount>
+        <VisualSplitCount>5</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
