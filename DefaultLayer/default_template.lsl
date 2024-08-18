@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>372</X>
-  <Y>97</Y>
+  <X>540</X>
+  <Y>267</Y>
   <VerticalWidth>397</VerticalWidth>
-  <VerticalHeight>428</VerticalHeight>
+  <VerticalHeight>374</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -43,8 +43,8 @@
       <Path>LiveSplit.Title.dll</Path>
       <Settings>
         <Version>1.7.3</Version>
-        <ShowGameName>False</ShowGameName>
-        <ShowCategoryName>False</ShowCategoryName>
+        <ShowGameName>True</ShowGameName>
+        <ShowCategoryName>True</ShowCategoryName>
         <ShowAttemptCount>True</ShowAttemptCount>
         <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
         <OverrideTitleFont>False</OverrideTitleFont>
@@ -135,21 +135,6 @@
         <CenterTimer>False</CenterTimer>
         <TimingMethod>Current Timing Method</TimingMethod>
         <DecimalsSize>35</DecimalsSize>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.SumOfBest.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
   </Components>
