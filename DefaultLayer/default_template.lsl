@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>540</X>
-  <Y>267</Y>
+  <X>1306</X>
+  <Y>132</Y>
   <VerticalWidth>397</VerticalWidth>
-  <VerticalHeight>374</VerticalHeight>
+  <VerticalHeight>373</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -86,7 +86,7 @@
         <OverrideTimesColor>False</OverrideTimesColor>
         <ShowBlankSplits>True</ShowBlankSplits>
         <LockLastSplit>False</LockLastSplit>
-        <IconSize>21</IconSize>
+        <IconSize>18</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>0</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
