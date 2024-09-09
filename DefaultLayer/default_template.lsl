@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1250</X>
-  <Y>54</Y>
+  <X>1430</X>
+  <Y>163</Y>
   <VerticalWidth>345</VerticalWidth>
-  <VerticalHeight>471</VerticalHeight>
+  <VerticalHeight>555</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -45,7 +45,7 @@
         <Version>1.7.3</Version>
         <ShowGameName>True</ShowGameName>
         <ShowCategoryName>True</ShowCategoryName>
-        <ShowAttemptCount>False</ShowAttemptCount>
+        <ShowAttemptCount>True</ShowAttemptCount>
         <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
         <OverrideTitleFont>False</OverrideTitleFont>
         <OverrideTitleColor>False</OverrideTitleColor>
@@ -153,6 +153,37 @@
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
         <TotalTimeSave>False</TotalTimeSave>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
+        <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.SumOfBest.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
   </Components>
