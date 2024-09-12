@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>956</X>
-  <Y>62</Y>
+  <X>1284</X>
+  <Y>81</Y>
   <VerticalWidth>345</VerticalWidth>
   <VerticalHeight>555</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -69,7 +69,7 @@
         <CurrentSplitTopColor>000039AC</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>6</VisualSplitCount>
-        <SplitPreviewCount>1</SplitPreviewCount>
+        <SplitPreviewCount>0</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
@@ -85,7 +85,7 @@
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
         <ShowBlankSplits>True</ShowBlankSplits>
-        <LockLastSplit>True</LockLastSplit>
+        <LockLastSplit>False</LockLastSplit>
         <IconSize>18</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>0</SplitHeight>
