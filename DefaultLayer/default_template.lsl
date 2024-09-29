@@ -66,7 +66,7 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>003671F9</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>4</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
@@ -89,7 +89,7 @@
         <IconSize>18</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>0</SplitHeight>
-        <CurrentSplitGradient>Plain</CurrentSplitGradient>
+        <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
