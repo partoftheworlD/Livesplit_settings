@@ -69,7 +69,7 @@
         <CurrentSplitTopColor>00000000</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>4</VisualSplitCount>
-        <SplitPreviewCount>2</SplitPreviewCount>
+        <SplitPreviewCount>0</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
@@ -126,7 +126,7 @@
         <TimerHeight>49</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>1.23</TimerFormat>
-        <OverrideSplitColors>True</OverrideSplitColors>
+        <OverrideSplitColors>False</OverrideSplitColors>
         <ShowGradient>True</ShowGradient>
         <TimerColor>FFFFFFFF</TimerColor>
         <BackgroundColor>00FFFFFF</BackgroundColor>
