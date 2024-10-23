@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1253</X>
-  <Y>269</Y>
+  <X>1070</X>
+  <Y>237</Y>
   <VerticalWidth>345</VerticalWidth>
   <VerticalHeight>314</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -45,7 +45,7 @@
         <Version>1.7.3</Version>
         <ShowGameName>True</ShowGameName>
         <ShowCategoryName>True</ShowCategoryName>
-        <ShowAttemptCount>False</ShowAttemptCount>
+        <ShowAttemptCount>True</ShowAttemptCount>
         <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
         <OverrideTitleFont>False</OverrideTitleFont>
         <OverrideTitleColor>True</OverrideTitleColor>
@@ -66,10 +66,10 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>00000000</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF0E4BD3</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>4</VisualSplitCount>
-        <SplitPreviewCount>0</SplitPreviewCount>
+        <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
