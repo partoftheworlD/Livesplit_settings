@@ -4,7 +4,7 @@
   <X>1214</X>
   <Y>135</Y>
   <VerticalWidth>310</VerticalWidth>
-  <VerticalHeight>332</VerticalHeight>
+  <VerticalHeight>299</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -66,7 +66,7 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>00000000</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF2B74F5</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>3</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
@@ -138,37 +138,20 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.PossibleTimeSave.dll</Path>
+      <Path>LiveSplit.PreviousSegment.dll</Path>
       <Settings>
-        <Version>1.5</Version>
+        <Version>1.6</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Hundredths</Accuracy>
-        <DropDecimals>False</DropDecimals>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
+        <DeltaAccuracy>Tenths</DeltaAccuracy>
+        <DropDecimals>True</DropDecimals>
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
-        <TotalTimeSave>False</TotalTimeSave>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
-        <Display2Rows>False</Display2Rows>
+        <ShowPossibleTimeSave>True</ShowPossibleTimeSave>
+        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
       </Settings>
     </Component>
     <Component>
