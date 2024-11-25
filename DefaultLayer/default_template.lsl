@@ -4,7 +4,7 @@
   <X>1245</X>
   <Y>330</Y>
   <VerticalWidth>310</VerticalWidth>
-  <VerticalHeight>290</VerticalHeight>
+  <VerticalHeight>344</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -40,10 +40,33 @@
   </Settings>
   <Components>
     <Component>
+      <Path>LiveSplit.Title.dll</Path>
+      <Settings>
+        <Version>1.7.3</Version>
+        <ShowGameName>True</ShowGameName>
+        <ShowCategoryName>True</ShowCategoryName>
+        <ShowAttemptCount>True</ShowAttemptCount>
+        <ShowFinishedRunsCount>True</ShowFinishedRunsCount>
+        <OverrideTitleFont>False</OverrideTitleFont>
+        <OverrideTitleColor>False</OverrideTitleColor>
+        <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAgEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TitleFont>
+        <SingleLine>False</SingleLine>
+        <TitleColor>FFFFFFFF</TitleColor>
+        <BackgroundColor>FF3B3435</BackgroundColor>
+        <BackgroundColor2>FF131313</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <DisplayGameIcon>True</DisplayGameIcon>
+        <ShowRegion>False</ShowRegion>
+        <ShowPlatform>False</ShowPlatform>
+        <ShowVariables>True</ShowVariables>
+        <TextAlignment>0</TextAlignment>
+      </Settings>
+    </Component>
+    <Component>
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>FF2B74F5</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF0B07F0</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>3</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
@@ -51,7 +74,7 @@
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
+        <SplitTimesAccuracy>Tenths</SplitTimesAccuracy>
         <AutomaticAbbreviations>False</AutomaticAbbreviations>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
