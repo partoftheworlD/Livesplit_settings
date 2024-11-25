@@ -19,7 +19,7 @@
     <BehindGainingTimeColor>FFCC5C52</BehindGainingTimeColor>
     <BehindLosingTimeColor>FFCC1200</BehindLosingTimeColor>
     <BestSegmentColor>FFD8AF1F</BestSegmentColor>
-    <UseRainbowColor>False</UseRainbowColor>
+    <UseRainbowColor>True</UseRainbowColor>
     <NotRunningColor>FFACACAC</NotRunningColor>
     <PausedColor>FF7A7A7A</PausedColor>
     <TextOutlineColor>00000000</TextOutlineColor>
