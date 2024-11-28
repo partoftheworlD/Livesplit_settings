@@ -66,7 +66,7 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>FF0B07F0</CurrentSplitTopColor>
+        <CurrentSplitTopColor>000B07F0</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>3</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
