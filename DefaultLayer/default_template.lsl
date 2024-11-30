@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1119</X>
-  <Y>216</Y>
-  <VerticalWidth>390</VerticalWidth>
-  <VerticalHeight>312</VerticalHeight>
+  <X>1240</X>
+  <Y>192</Y>
+  <VerticalWidth>285</VerticalWidth>
+  <VerticalHeight>370</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -45,7 +45,7 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>16</VisualSplitCount>
+        <VisualSplitCount>5</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
@@ -70,7 +70,7 @@
         <BackgroundColor>003B3435</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <SeparatorLastSplit>True</SeparatorLastSplit>
+        <SeparatorLastSplit>False</SeparatorLastSplit>
         <DeltasAccuracy>Tenths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
@@ -102,7 +102,7 @@
         <Version>1.5</Version>
         <Height>115</Height>
         <Width>200</Width>
-        <SegmentTimerSizeRatio>40</SegmentTimerSizeRatio>
+        <SegmentTimerSizeRatio>44</SegmentTimerSizeRatio>
         <TimerShowGradient>True</TimerShowGradient>
         <OverrideTimerColors>False</OverrideTimerColors>
         <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
