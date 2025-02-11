@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1341</X>
-  <Y>280</Y>
-  <VerticalWidth>259</VerticalWidth>
-  <VerticalHeight>290</VerticalHeight>
+  <X>1510</X>
+  <Y>415</Y>
+  <VerticalWidth>286</VerticalWidth>
+  <VerticalHeight>350</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -27,7 +27,7 @@
     <TimesFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAgEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAABAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TimesFont>
     <TimerFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAdDYWxpYnJpAAAvQgX8////GFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQEAAAAHdmFsdWVfXwAIAgAAAAEAAAAF+////xtTeXN0ZW0uRHJhd2luZy5HcmFwaGljc1VuaXQBAAAAB3ZhbHVlX18ACAIAAAACAAAACw==]]></TimerFont>
     <TextFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAgEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAABAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TextFont>
-    <AlwaysOnTop>False</AlwaysOnTop>
+    <AlwaysOnTop>True</AlwaysOnTop>
     <ShowBestSegments>True</ShowBestSegments>
     <AntiAliasing>True</AntiAliasing>
     <DropShadows>True</DropShadows>
@@ -66,11 +66,11 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>003373F4</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>4</VisualSplitCount>
+        <VisualSplitCount>10</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
-        <DisplayIcons>False</DisplayIcons>
+        <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
@@ -89,8 +89,8 @@
         <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>0</SplitHeight>
-        <CurrentSplitGradient>Plain</CurrentSplitGradient>
-        <BackgroundColor>003B3435</BackgroundColor>
+        <CurrentSplitGradient>Vertical</CurrentSplitGradient>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>False</SeparatorLastSplit>
@@ -123,14 +123,14 @@
       <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <TimerHeight>50</TimerHeight>
+        <TimerHeight>69</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>1.23</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
         <ShowGradient>True</ShowGradient>
         <TimerColor>FFAAAAAA</TimerColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundColor>00000000</BackgroundColor>
+        <BackgroundColor2>FF222222</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <CenterTimer>False</CenterTimer>
         <TimingMethod>Current Timing Method</TimingMethod>
@@ -143,12 +143,12 @@
         <Version>1.6</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <BackgroundColor>003B3435</BackgroundColor>
+        <BackgroundColor>00000000</BackgroundColor>
         <BackgroundColor2>FF0D0D0D</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <DeltaAccuracy>Tenths</DeltaAccuracy>
         <DropDecimals>True</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
         <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
         <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
