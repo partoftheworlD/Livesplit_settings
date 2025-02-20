@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1385</X>
-  <Y>229</Y>
+  <X>1458</X>
+  <Y>236</Y>
   <VerticalWidth>286</VerticalWidth>
   <VerticalHeight>330</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -66,8 +66,8 @@
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
-        <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
+        <CurrentSplitTopColor>FFE71616</CurrentSplitTopColor>
+        <CurrentSplitBottomColor>FF370BB1</CurrentSplitBottomColor>
         <VisualSplitCount>10</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
@@ -89,7 +89,7 @@
         <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>0</SplitHeight>
-        <CurrentSplitGradient>Vertical</CurrentSplitGradient>
+        <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
