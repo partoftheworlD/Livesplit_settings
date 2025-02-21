@@ -145,14 +145,14 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Hundredths</Accuracy>
+        <Accuracy>Seconds</Accuracy>
         <DropDecimals>False</DropDecimals>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
-        <TotalTimeSave>False</TotalTimeSave>
+        <TotalTimeSave>True</TotalTimeSave>
       </Settings>
     </Component>
     <Component>
