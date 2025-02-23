@@ -4,7 +4,7 @@
   <X>1402</X>
   <Y>236</Y>
   <VerticalWidth>286</VerticalWidth>
-  <VerticalHeight>219</VerticalHeight>
+  <VerticalHeight>217</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -71,7 +71,7 @@
         <VisualSplitCount>5</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
-        <ShowThinSeparators>True</ShowThinSeparators>
+        <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
         <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
@@ -85,7 +85,7 @@
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
         <ShowBlankSplits>True</ShowBlankSplits>
-        <LockLastSplit>True</LockLastSplit>
+        <LockLastSplit>False</LockLastSplit>
         <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>3.6</SplitHeight>
