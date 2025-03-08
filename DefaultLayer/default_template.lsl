@@ -125,7 +125,7 @@
         <Version>1.5</Version>
         <TimerHeight>50</TimerHeight>
         <TimerWidth>225</TimerWidth>
-        <TimerFormat>1.23</TimerFormat>
+        <TimerFormat>00:01</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
         <ShowGradient>True</ShowGradient>
         <TimerColor>FFAAAAAA</TimerColor>
