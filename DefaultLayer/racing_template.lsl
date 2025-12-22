@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1281</X>
+  <X>1282</X>
   <Y>120</Y>
-  <VerticalWidth>347</VerticalWidth>
+  <VerticalWidth>338</VerticalWidth>
   <VerticalHeight>336</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
@@ -114,7 +114,7 @@
             <Version>1.5</Version>
             <Name>
             </Name>
-            <Type>Delta</Type>
+            <Type>SegmentDelta</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
