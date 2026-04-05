@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1010</X>
-  <Y>115</Y>
+  <X>1270</X>
+  <Y>101</Y>
   <VerticalWidth>324</VerticalWidth>
-  <VerticalHeight>359</VerticalHeight>
+  <VerticalHeight>360</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -58,7 +58,7 @@
         <DisplayGameIcon>True</DisplayGameIcon>
         <ShowRegion>False</ShowRegion>
         <ShowPlatform>False</ShowPlatform>
-        <ShowVariables>True</ShowVariables>
+        <ShowVariables>False</ShowVariables>
         <TextAlignment>0</TextAlignment>
       </Settings>
     </Component>
