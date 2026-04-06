@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1334</X>
+  <X>1335</X>
   <Y>104</Y>
-  <VerticalWidth>312</VerticalWidth>
-  <VerticalHeight>307</VerticalHeight>
+  <VerticalWidth>311</VerticalWidth>
+  <VerticalHeight>273</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -149,22 +149,6 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
