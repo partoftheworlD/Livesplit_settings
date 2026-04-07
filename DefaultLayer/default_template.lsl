@@ -85,7 +85,7 @@
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
         <ShowBlankSplits>True</ShowBlankSplits>
-        <LockLastSplit>True</LockLastSplit>
+        <LockLastSplit>False</LockLastSplit>
         <IconSize>22</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>0</SplitHeight>
