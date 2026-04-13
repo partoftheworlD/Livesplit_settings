@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1400</X>
-  <Y>228</Y>
+  <X>1524</X>
+  <Y>235</Y>
   <VerticalWidth>314</VerticalWidth>
   <VerticalHeight>353</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -89,7 +89,7 @@
         <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>3.6</SplitHeight>
-        <CurrentSplitGradient>Plain</CurrentSplitGradient>
+        <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
