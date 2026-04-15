@@ -4,7 +4,7 @@
   <X>1550</X>
   <Y>142</Y>
   <VerticalWidth>243</VerticalWidth>
-  <VerticalHeight>293</VerticalHeight>
+  <VerticalHeight>232</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -68,7 +68,7 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF0055FF</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>3</VisualSplitCount>
+        <VisualSplitCount>1</VisualSplitCount>
         <SplitPreviewCount>0</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
