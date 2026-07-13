@@ -1,0 +1,1 @@
+cd /d D:\Speedruns\Splits && git add . && git commit --allow-empty -am "update splits" && git push && cd .. && git add . && git commit --allow-empty -am "update speedruns" && git push && cd Practice && git add . && git commit --allow-empty -am "update practice" && git push
